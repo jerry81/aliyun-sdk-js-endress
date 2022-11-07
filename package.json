@@ -1,12 +1,12 @@
 {
-  "name": "aliyun-sdk",
-  "description": "Aliyun SDK for JavaScript",
+  "name": "aliyun-sdk-netilion",
+  "description": "Aliyun SDK for JavaScript Patched for Netilion",
   "version": "1.12.5",
   "author": {
     "name": "chylvina",
     "email": "chylvina@gmail.com"
   },
-  "homepage": "https://github.com/aliyun-UED/aliyun-sdk-js.git",
+  "homepage": "https://github.com/jerry81/aliyun-adk-js-endress",
   "contributors": [],
   "devDependencies": {
     "coffee-script": "1.6.3",
@@ -49,10 +49,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:aliyun-UED/aliyun-sdk-js.git"
+    "url": "https://github.com/jerry81/aliyun-adk-js-endress.git"
   },
   "bugs": {
-    "url": "https://github.com/aliyun-UED/aliyun-sdk-js/issues",
+    "url": "https://github.com/jerry81/aliyun-adk-js-endress/issues",
     "mail": ""
   },
   "keywords": [],

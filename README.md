@@ -1,3 +1,7 @@
+# NOTE
+
+forked from https://github.com/aliyun-UED/aliyun-sdk-js
+
 ## 安装
 
 ### Node.js 安装
